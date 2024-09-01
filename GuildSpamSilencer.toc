@@ -1,7 +1,7 @@
 ## Interface: 110002
 ## Title: Guild Spam Silencer
 ## Notes: Hides Classic Battles, Diplomacy, "slayers" achievements, and silences the "has come online" spam. Fork of https://www.curseforge.com/wow/addons/guild-achievements-fix .
-## Version: 1.0.0
+## Version: 1.0.1
 ## Author: Raef
 
 core.lua
